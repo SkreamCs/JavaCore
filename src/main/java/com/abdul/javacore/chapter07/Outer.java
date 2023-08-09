@@ -1,4 +1,4 @@
-package com.abdul.javacore.chapter7;
+package com.abdul.javacore.chapter07;
 
 class Outer {
     int outer_х = 100;

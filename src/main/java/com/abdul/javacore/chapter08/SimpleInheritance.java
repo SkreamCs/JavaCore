@@ -1,4 +1,4 @@
-package com.abdul.javacore.chapter8;
+package com.abdul.javacore.chapter08;
 
 class SimpleInheritance {
     public static void main(String args[]) {

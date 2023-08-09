@@ -1,4 +1,4 @@
-package com.abdul.javacore.chapter7;
+package com.abdul.javacore.chapter07;
 
 class OverloadCons {
     public static void main(String args[]) {

@@ -31,6 +31,7 @@ public class GameRunner {
             essence.field[x][y] = (crossOrZero) ? essence.CROSS : essence.ZERO;
             if (logic.isWIn(essence.field, (crossOrZero) ? essence.CROSS : essence.ZERO)) {
                 System.out.println((crossOrZero) ? "Крестики выиграли" : "Нолики выиграли");
+                essence.printField(essence.field);
                 break;
             } else if (logic.draw(essence.field)) {
                 System.out.println("Ничья");

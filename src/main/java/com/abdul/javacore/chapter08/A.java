@@ -1,4 +1,4 @@
-package com.abdul.javacore.chapter8;
+package com.abdul.javacore.chapter08;
 
 class A {
     int i, j;
